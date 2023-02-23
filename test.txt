@@ -4,3 +4,9 @@ para hacer esto más llevadero
 Aquí hago más cambios
  
 sigo haciendo mas cambios que quiero mantener
+
+function feature1(){
+	and do somthing here
+
+	return true;
+}
