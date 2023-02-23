@@ -4,3 +4,8 @@ para hacer esto más llevadero
 Aquí hago más cambios
  
 sigo haciendo mas cambios que quiero mantener
+
+function main(){
+
+	return funcion_principal
+}
