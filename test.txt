@@ -8,4 +8,12 @@ sigo haciendo mas cambios que quiero mantener
 function main(){
 
 	return funcion_principal
+
+}
+
+
+function feature1(){
+	and do somthing here
+
+	return true;
 }
