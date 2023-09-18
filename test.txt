@@ -9,7 +9,7 @@ function main(){
         esta funcion cambia aqui
 		añadiendo estas lineas():
 		etc.etc
-	return funcion_principal 9999
+	return funcion_principal 9988
 
 }
 
