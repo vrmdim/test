@@ -17,3 +17,5 @@ function feature2(){
 
 	return true;
 }
+
+Aqui hago otra funcion2
