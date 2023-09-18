@@ -12,7 +12,7 @@ function main(){
 }
 
 
-function feature1(){
+function feature2(){
 	and do somthing here
 
 	return true;
