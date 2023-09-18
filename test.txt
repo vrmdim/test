@@ -8,8 +8,8 @@ sigo haciendo mas cambios que quiero mantener
 function main(){
         esta funcion cambia aqui
 		añadiendo estas lineas():
-			etc.etc
-	return funcion_principal
+		etc.etc
+	return funcion_principal 9999
 
 }
 
